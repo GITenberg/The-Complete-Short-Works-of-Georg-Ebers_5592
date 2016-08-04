@@ -1,0 +1,34 @@
+_repo: The-Complete-Short-Works-of-Georg-Ebers_5592
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Safford, Mary J.
+    alias: Safford, Mary Joanna
+    gutenberg_agent_id: '1802'
+    url: http://www.gutenberg.org/2009/agents/1802
+creator:
+  author:
+    agent_name: Ebers, Georg
+    alias: Ebers, Georg Moritz
+    birthdate: 1837
+    deathdate: 1898
+    gutenberg_agent_id: '1800'
+    url: http://www.gutenberg.org/2009/agents/1800
+    wikipedia: http://en.wikipedia.org/wiki/Georg_Ebers
+description: ''
+gutenberg_issued: '2004-11-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5592'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'German fiction -- Translations into English'
+- GITenberg
+tableOfContents: 'In the Blue Pike -- A question -- The elixir -- The Greylock: a
+  fairy tale -- The nuts: A Christmas story for my children and grandchildren.'
+title: The Complete Short Works of Georg Ebers
+url: http://www.gutenberg.org/ebooks/5592
